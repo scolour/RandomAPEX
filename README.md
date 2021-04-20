@@ -17,7 +17,7 @@ APEX Legends(© 2021 Electronic Arts Inc.)において、いろいろランダ�
 - 1チーム3～6人推奨(3人の場合は常に同じメンバーが選出されることになります)
 
 ## ツールの使い方
-- https://github.com/scolour/RandomAPEX/releases から最新版をダウンロードし、適当な場所に回答してください。
+- https://github.com/scolour/RandomAPEX/releases から最新版をダウンロードし、適当な場所に解凍してください。
 - 「member.txt」にチームメンバーの名前を入力し、保存します。
 - 「RandomAPEX.exe」を実行します。
 - 「Go」ボタンを押すと、「member.txt」に入力した名前から3つを抽選し、それぞれのプレイヤーが使用できる銃、使用するレジェンドが表示されます。
